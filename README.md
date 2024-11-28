@@ -33,6 +33,7 @@ Since expertise in lung cancer diagnosis is required to label the images accurat
 ## Results
 ![confusion matrix]()
 
+![390614683-482b9065-cbe8-4ea1-ab8d-e3d2dc162346-1](https://github.com/user-attachments/assets/7a9b136a-9fa1-48b7-8794-194fd51de769)
 
 ---
 
